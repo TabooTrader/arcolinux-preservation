@@ -1,8 +1,7 @@
-# ArcoLinux Preservation Mirror (Final 2025)
+# Orca Repo - ArcoLinux Preservation Mirror 🐋
 
-**1103 packages** from ArcoLinux + ArcoNet + Nemesis + Kiro preserved.
+**Final preservation** of ArcoLinux + ArcoNet + Nemesis + Kiro packages (1068 packages).
 
-**Packages** → [Releases tab](https://github.com/TabooTrader/arcolinux-preservation/releases)  
-**Database** → in root (for pacman)
+Project ended in 2025 — this mirror keeps them alive.
 
-See USAGE.md for installation instructions.
+**Local use:** Already added on your machine.
